@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityajai18/LeetHub/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/adityajai18/LeetHub/tree/master/0093-restore-ip-addresses) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/adityajai18/LeetHub/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
