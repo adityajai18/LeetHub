@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/adityajai18/LeetHub/tree/master/0006-zigzag-conversion) |
 | [0093-restore-ip-addresses](https://github.com/adityajai18/LeetHub/tree/master/0093-restore-ip-addresses) |
 ## Backtracking
 |  |
