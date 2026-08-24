@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/adityajai18/LeetHub/tree/master/0006-zigzag-conversion) |
 | [0093-restore-ip-addresses](https://github.com/adityajai18/LeetHub/tree/master/0093-restore-ip-addresses) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/adityajai18/LeetHub/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Backtracking
 |  |
 | ------- |
