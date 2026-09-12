@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adityajai18/LeetHub/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityajai18/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/adityajai18/LeetHub/tree/master/1140-stone-game-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityajai18/LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityajai18/LeetHub/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adityajai18/LeetHub/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityajai18/LeetHub/tree/master/3904-smallest-stable-index-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/adityajai18/LeetHub/tree/master/0338-counting-bits) |
 | [1140-stone-game-ii](https://github.com/adityajai18/LeetHub/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/adityajai18/LeetHub/tree/master/1510-stone-game-iv) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityajai18/LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityajai18/LeetHub/tree/master/0015-3sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityajai18/LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityajai18/LeetHub/tree/master/0035-search-insert-position) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityajai18/LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
