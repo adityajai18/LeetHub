@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityajai18/LeetHub/tree/master/0015-3sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityajai18/LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/adityajai18/LeetHub/tree/master/0006-zigzag-conversion) |
 | [0093-restore-ip-addresses](https://github.com/adityajai18/LeetHub/tree/master/0093-restore-ip-addresses) |
 | [0844-backspace-string-compare](https://github.com/adityajai18/LeetHub/tree/master/0844-backspace-string-compare) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/adityajai18/LeetHub/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Backtracking
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityajai18/LeetHub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityajai18/LeetHub/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityajai18/LeetHub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
