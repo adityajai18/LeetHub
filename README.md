@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/adityajai18/LeetHub/tree/master/0093-restore-ip-addresses) |
 | [0844-backspace-string-compare](https://github.com/adityajai18/LeetHub/tree/master/0844-backspace-string-compare) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityajai18/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/adityajai18/LeetHub/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityajai18/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/adityajai18/LeetHub/tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityajai18/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityajai18/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
