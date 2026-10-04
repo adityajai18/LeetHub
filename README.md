@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityajai18/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/adityajai18/LeetHub/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/adityajai18/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/adityajai18/LeetHub/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityajai18/LeetHub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/adityajai18/LeetHub/tree/master/1510-stone-game-iv) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/adityajai18/LeetHub/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/adityajai18/LeetHub/tree/master/0020-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/adityajai18/LeetHub/tree/master/0093-restore-ip-addresses) |
+| [0678-valid-parenthesis-string](https://github.com/adityajai18/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/adityajai18/LeetHub/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityajai18/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityajai18/LeetHub/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/adityajai18/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/adityajai18/LeetHub/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityajai18/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityajai18/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -166,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/adityajai18/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityajai18/LeetHub/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/adityajai18/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityajai18/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityajai18/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
