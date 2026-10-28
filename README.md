@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityajai18/LeetHub/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/adityajai18/LeetHub/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityajai18/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/adityajai18/LeetHub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityajai18/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0835-image-overlap](https://github.com/adityajai18/LeetHub/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/adityajai18/LeetHub/tree/master/1140-stone-game-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adityajai18/LeetHub/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/adityajai18/LeetHub/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/adityajai18/LeetHub/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/adityajai18/LeetHub/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/adityajai18/LeetHub/tree/master/1510-stone-game-iv) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityajai18/LeetHub/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/adityajai18/LeetHub/tree/master/0268-missing-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityajai18/LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
@@ -106,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityajai18/LeetHub/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/adityajai18/LeetHub/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityajai18/LeetHub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityajai18/LeetHub/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adityajai18/LeetHub/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/adityajai18/LeetHub/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/adityajai18/LeetHub/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adityajai18/LeetHub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityajai18/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityajai18/LeetHub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
