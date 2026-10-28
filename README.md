@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityajai18/LeetHub/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/adityajai18/LeetHub/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityajai18/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityajai18/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0835-image-overlap](https://github.com/adityajai18/LeetHub/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/adityajai18/LeetHub/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityajai18/LeetHub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityajai18/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityajai18/LeetHub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/adityajai18/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityajai18/LeetHub/tree/master/3483-unique-3-digit-even-numbers) |
