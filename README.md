@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityajai18/LeetHub/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/adityajai18/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adityajai18/LeetHub/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/adityajai18/LeetHub/tree/master/0836-rectangle-overlap) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityajai18/LeetHub/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/adityajai18/LeetHub/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityajai18/LeetHub/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/adityajai18/LeetHub/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityajai18/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityajai18/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adityajai18/LeetHub/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
