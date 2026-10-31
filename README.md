@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityajai18/LeetHub/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/adityajai18/LeetHub/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/adityajai18/LeetHub/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/adityajai18/LeetHub/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/adityajai18/LeetHub/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/adityajai18/LeetHub/tree/master/1140-stone-game-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityajai18/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/adityajai18/LeetHub/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/adityajai18/LeetHub/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/adityajai18/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/adityajai18/LeetHub/tree/master/1140-stone-game-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/adityajai18/LeetHub/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/adityajai18/LeetHub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityajai18/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityajai18/LeetHub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adityajai18/LeetHub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adityajai18/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/adityajai18/LeetHub/tree/master/0203-remove-linked-list-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/adityajai18/LeetHub/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
